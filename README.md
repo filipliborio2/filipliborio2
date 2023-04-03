@@ -8,7 +8,7 @@ Desenvolvedor Front End com experiencia nas tecnologias HTML, CSS, JavaScript, R
 
 ![Jhonatan GitHub stats](https://github-readme-stats.vercel.app/api?username=filipliborio2&show_icons=true&theme=dracula)
 
-### Projeto
+### Alguns Projetos 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipliborio2&repo=Tik-Tok-Project-EBAC-Semana-Fullstack)](https://github.com/anuraghazra/github-readme-stats)
 
