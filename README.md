@@ -1,4 +1,4 @@
-### Olá Pessoal! Vem ver minhas habilidades! ✌
+### Olá Pessoal! Sou Filip Anderson, Desenvolvedor Front End. Vem ver minhas habilidades! ✌
 
 #### sobre o Filip 
 
