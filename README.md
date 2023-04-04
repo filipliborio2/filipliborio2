@@ -10,9 +10,10 @@ Desenvolvedor Front End com experiencia nas tecnologias HTML, CSS, JavaScript, R
 
 ### Alguns Projetos 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipliborio2&repo=Tik-Tok-Project-EBAC-Semana-Fullstack&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipliborio2&repo=Clima-tempo-app-javascript&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipliborio2&repo=POKETCGCARDS&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipliborio2&repo=Tik-Tok-Project-EBAC-Semana-Fullstack&theme=dracula)](https://github.com/filipliborio2/Tik-Tok-Project-EBAC-Semana-Fullstack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipliborio2&repo=Clima-tempo-app-javascript&theme=dracula)](https://github.com/filipliborio2/Clima-tempo-app-javascript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipliborio2&repo=POKETCGCARDS&theme=dracula)](https://github.com/filipliborio2/POKETCGCARDS/blob/main/README.md)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipliborio2&repo=POKEDEX-HTML-CSS-JS&theme=dracula)](https://github.com/filipliborio2/POKEDEX-HTML-CSS-JS)
 
 ### Linguagens Que Mais Uso
 
