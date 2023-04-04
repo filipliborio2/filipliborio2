@@ -11,6 +11,8 @@ Desenvolvedor Front End com experiencia nas tecnologias HTML, CSS, JavaScript, R
 ### Alguns Projetos 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipliborio2&repo=Tik-Tok-Project-EBAC-Semana-Fullstack&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipliborio2&repo=Clima-tempo-app-javascript&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipliborio2&repo=POKETCGCARDS&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens Que Mais Uso
 
